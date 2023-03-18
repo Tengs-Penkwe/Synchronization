@@ -1,0 +1,3 @@
+[submodule "uthreads"]
+	path = uthreads
+	url = git@github.com:Tengs-Penkwe/uthreads.git
